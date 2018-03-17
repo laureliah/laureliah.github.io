@@ -9,7 +9,7 @@ You can use the [editor on GitHub](https://github.com/laureliah/laureliah.github
 
 ### Wordpress
 
-If you would like to see my page made in wordpress, head to [link](http://aiesec.ie).
+If you would like to see my page made in wordpress, head [here](http://aiesec.ie).
 
 ### Images
 
