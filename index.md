@@ -1,7 +1,5 @@
 # Welcome to my Page
 
-You can use the [editor on GitHub](https://github.com/laureliah/laureliah.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
 ## Table of content
 
 1. Wordpress
